@@ -1,0 +1,1 @@
+console.log("asfdasdfsa"),alert(12342342);
